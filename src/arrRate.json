@@ -1,0 +1,22 @@
+[
+  {
+    "nameRate": "Безлимитный 300",
+    "priceRate": 300,
+    "numberMb": 10
+  },
+  {
+    "nameRate": "Безлимитный 450",
+    "priceRate": 450,
+    "numberMb": 50
+  },
+  {
+    "nameRate": "Безлимитный 550",
+    "priceRate": 550,
+    "numberMb": 100
+  },
+  {
+    "nameRate": "Безлимитный 1000",
+    "priceRate": 1000,
+    "numberMb": 200
+  }
+]
