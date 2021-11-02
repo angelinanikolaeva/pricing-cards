@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 function Card(props) {
   const { nameRate, priceRate, numberMb } = props;
   const [selected, setSelected] = useState(false);
