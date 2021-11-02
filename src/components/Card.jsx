@@ -18,7 +18,9 @@ function Card(props) {
         <div className="card-price">
           <strong>{priceRate}</strong> руб/мес
         </div>
-        <div className="card-speed">до {numberMb} Мбит/сек</div>
+        <div className="card-speed">
+          <span>до {numberMb} Мбит/сек</span>
+        </div>
       </div>
       <div className="card-footer">
         <p className="card-volume">Объем включенного трафика не ограничен</p>
