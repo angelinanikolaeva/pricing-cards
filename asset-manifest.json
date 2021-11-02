@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pricing-cards/static/css/main.1a70d19a.chunk.css",
+    "main.js": "/pricing-cards/static/js/main.87456f2b.chunk.js",
+    "main.js.map": "/pricing-cards/static/js/main.87456f2b.chunk.js.map",
+    "runtime-main.js": "/pricing-cards/static/js/runtime-main.c82f34dd.js",
+    "runtime-main.js.map": "/pricing-cards/static/js/runtime-main.c82f34dd.js.map",
+    "static/js/2.e5b9dc6b.chunk.js": "/pricing-cards/static/js/2.e5b9dc6b.chunk.js",
+    "static/js/2.e5b9dc6b.chunk.js.map": "/pricing-cards/static/js/2.e5b9dc6b.chunk.js.map",
+    "static/js/3.b4c275d8.chunk.js": "/pricing-cards/static/js/3.b4c275d8.chunk.js",
+    "static/js/3.b4c275d8.chunk.js.map": "/pricing-cards/static/js/3.b4c275d8.chunk.js.map",
+    "index.html": "/pricing-cards/index.html",
+    "static/css/main.1a70d19a.chunk.css.map": "/pricing-cards/static/css/main.1a70d19a.chunk.css.map",
+    "static/js/2.e5b9dc6b.chunk.js.LICENSE.txt": "/pricing-cards/static/js/2.e5b9dc6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c82f34dd.js",
+    "static/js/2.e5b9dc6b.chunk.js",
+    "static/css/main.1a70d19a.chunk.css",
+    "static/js/main.87456f2b.chunk.js"
+  ]
+}
